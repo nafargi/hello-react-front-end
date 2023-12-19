@@ -24,7 +24,7 @@
 
 ## 📖 React App <a name="about-project"></a>
 
-**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..
+**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users. Here is a link to the back-end [Link] (https://github.com/Zel-hub7/hello-rails-back-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 
